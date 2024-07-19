@@ -53,9 +53,7 @@ This project is a dynamic TodoList component built using React. It allows users 
 
 ### Providing Feedback:
 - If you encounter any issues or have suggestions for improvement, please provide feedback for further enhancements.
-
-![author](https://img.shields.io/badge/author-Nirbhay--Kumar-blue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nirbhaykrmuj/)
+Jai Ashutosh(Jaiashutosh25@gmil.com)
 
 ---
 
